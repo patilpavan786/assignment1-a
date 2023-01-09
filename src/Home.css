@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    background-color: rgba(0, 255, 242, 0.822);
+    
+  }
+ 
+  .btn{
+    display: grid;
+    place-items: center;
+    margin: 2rem;
+    border: 5px lightgray solid;
+
+  
+  }
+  .btn button{
+    padding: 2rem;
+    margin: 2rem;
+    text-align: center;
+    font-size: 2.5rem;
+    border-radius: 10px;
+    background-color: rgb(154, 193, 228);
+    cursor: grab;
+    font: italic;
+    font-weight: bolder;
+    border: 2px rgb(197, 60, 60) solid;
+   
+
+  }
